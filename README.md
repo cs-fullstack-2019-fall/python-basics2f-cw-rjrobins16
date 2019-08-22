@@ -14,6 +14,16 @@ Write some Python code that asks the user for a secret password. Create a loop t
 
 ### Problem 3:
 Write some Python code that prints 0 to 100 three times in a row (vertically).
+```
+1 1 1
+2 2 2
+3 3 3
+4 4 4
+5 5 5
+.
+.
+.
+```
 
 ### Problem 4:
 Write some Python code that create a random number and stores it in a variable. Ask the user to guess the random number. Keep letting the user guess until they get it right, then quit.
