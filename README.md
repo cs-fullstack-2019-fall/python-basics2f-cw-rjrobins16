@@ -13,7 +13,7 @@ YOUR_GREETING_VARIABLE YOUR_NAME_VARIABLE!!! I hear that you are YOUR_MY_AGE_VAR
 Write some Python code that asks the user for a secret password. Create a loop that quits with the user's quit word. If the user doesn't enter that word, ask them to guess again.
 
 ### Problem 3:
-Write some Python code that prints 0 to 100 three times in a row (vertically).
+Write some Python code using ```f-strings``` that prints 0 to 50 three times in a row (vertically).
 ```
 1 1 1
 2 2 2
